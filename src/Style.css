@@ -224,6 +224,9 @@ body {
   border-bottom: 1px solid white;
   padding: 10px;
   color: white;
+  -webkit-appearance: none !important;
+  -webkit-border-radius:0px !important;
+  border-radius: 0 !important;
 }
 
 #filter {
